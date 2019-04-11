@@ -8,11 +8,3 @@
 * Document toolchain (in toolchain repo).
 * Typescript?
 * Bootstrap?
-
-## Design
-
-* Database of standards.
-* Select with checkboxes (heirarchically).
-* Export as Canvas outcomes (are standards really what Canvas means by outcomes?).
-* Export as partial framework.
-* Use git as a backend for maintaining standards?
